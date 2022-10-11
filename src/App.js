@@ -2,7 +2,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import { useEffect,useState } from 'react';
 import MovieCard from './MovieCard';
-const AIP_URL = 'http://www.omdbapi.com?apikey=a6584e04';
+const AIP_URL = 'https://www.omdbapi.com?apikey=a6584e04';
 
 function App() {
 
