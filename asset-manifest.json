@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rip-Tomatoes/static/css/main.4bb34cc7.css",
+    "main.js": "/Rip-Tomatoes/static/js/main.d7fa1983.js",
+    "static/js/787.c636f202.chunk.js": "/Rip-Tomatoes/static/js/787.c636f202.chunk.js",
+    "index.html": "/Rip-Tomatoes/index.html",
+    "static/media/search.svg": "/Rip-Tomatoes/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.4bb34cc7.css.map": "/Rip-Tomatoes/static/css/main.4bb34cc7.css.map",
+    "main.d7fa1983.js.map": "/Rip-Tomatoes/static/js/main.d7fa1983.js.map",
+    "787.c636f202.chunk.js.map": "/Rip-Tomatoes/static/js/787.c636f202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb34cc7.css",
+    "static/js/main.d7fa1983.js"
+  ]
+}
